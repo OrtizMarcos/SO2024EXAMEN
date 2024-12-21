@@ -94,6 +94,7 @@ docker rm task_manager_rr_container task_manager_st_container
 
 ### Tabla de Metricas Q= 2
 ![Metricas Q= 2](img/img_4.png)
+<img src="img/img_4.png" alt="Descripción de la imagen" width="500">
 
 ### Diagrama de Grantt Q= 2
 ![Grantt](img/img_7.png)
