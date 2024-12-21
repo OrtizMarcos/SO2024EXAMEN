@@ -9,9 +9,11 @@ task_manager/
 ├── README.md                   # Guia de ejecucion del Programa
 ├── img/
 │   ├── img.png         # Capturas de Pantalla
-│   ├── img_1.png         
+│   ├── img_1.png      
+│  
 ├── data/
 │   ├── tasks_data.json         # Datos de tareas
+│
 ├── src/
      ├── task_handler.py        # Script principal del manejador de tareas
 ```
