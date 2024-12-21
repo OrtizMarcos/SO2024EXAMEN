@@ -93,20 +93,20 @@ docker rm task_manager_rr_container task_manager_st_container
 ![Builds](img/img_3.png)
 
 ### Tabla de Metricas Q= 2
-![Metricas Q= 2](img/img_4.png)
-<img src="img/img_4.png" alt="Descripción de la imagen" width="500">
+<img src="img/img_4.png" alt="Metricas Q=2" width="500">
 
 ### Diagrama de Grantt Q= 2
 ![Grantt](img/img_7.png)
 
 ### Tabla de Metricas Q= 4
-![Metricas Q= 4](img/img_5.png)
+<img src="img/img_5.png" alt="Metricas Q= 4" width="500">
 
 ### Diagrama de Grantt Q= 4
 ![Diagrama de flujo](img/img_8.png)
 
+
 ### Tabla de Metricas SRTF
-![Metricas SRTF](img/img_6.png)
+<img src="img/img_6.png" alt="Metricas SRTF" width="500">
 
 ### Diagrama de Grantt SRTF
 ![Diagrama de flujo](img/img_9.png)
