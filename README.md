@@ -7,6 +7,9 @@ task_manager/
 ├── Dockerfile.round_robin      # Dockerfile para Round Robin
 ├── Dockerfile.shortest_time    # Dockerfile para Shortest Time
 ├── README.md                   # Guia de ejecucion del Programa
+├── img/
+│   ├── img.png         # Capturas de Pantalla
+│   ├── img_1.png         
 ├── data/
 │   ├── tasks_data.json         # Datos de tareas
 ├── src/
