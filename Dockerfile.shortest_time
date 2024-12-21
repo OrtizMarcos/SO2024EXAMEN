@@ -1,0 +1,10 @@
+FROM python:3.12-slim
+
+WORKDIR /app
+
+COPY src/task_handler.py .
+COPY data/tasks_data.json ./data/
+
+ENV INPUT_FILE=/app/data/tasks_data.json
+
+CMD python tasks_handler.py --algorithm srtf --input "$INPUT_FILE"
